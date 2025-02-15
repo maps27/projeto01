@@ -7,3 +7,5 @@ Este é o meu primeiro projeto utiizando o Git e  Github.
 - Adicionando outra modificação no Readme.md
 
 - Adicionada uma nova branch no projeto.
+
+- Adicionada nova funcionalidade.
